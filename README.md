@@ -1,8 +1,8 @@
-# Project Based Learning
+# hongocchinh Learn by Building
 
 [![Gitter](https://badges.gitter.im/hongocchinh/community.svg)](https://gitter.im/hongocchinh/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Link rot sweep](https://github.com/hongocchinh/learn-by-building/actions/workflows/link-rot.yml/badge.svg)](https://github.com/hongocchinh/learn-by-building/actions/workflows/link-rot.yml)
 
-A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
+A curated list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.
 
 To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
@@ -160,7 +160,7 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 - [Create a Rogue-like game in C#](https://roguesharp.wordpress.com/)
 - [Create a Blank App with C# and Xamarin (work in progress)](https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/)
 - [Build iOS Photo Library App with Xamarin and Visual Studio](https://www.raywenderlich.com/134049/building-ios-apps-with-xamarin-and-visual-studio)
-- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p) This is a Wiki-style content management system that has been completely written in C# with ASP.NET Core and Razor Pages. You can find the source code [here](https://github.com/csharpfritz/CoreWiki).
+- [Building the CoreWiki](https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p)
 
 ## Clojure:
 
@@ -650,27 +650,29 @@ To get started, simply fork this repo. Please refer to [CONTRIBUTING.md](CONTRIB
 
 ## Scala:
 
-- [Simple actor-based blockchain](https://www.freecodecamp.org/news/how-to-build-a-simple-actor-based-blockchain-aac1e996c177/)
-- [No Magic: Regular Expressions](https://rcoh.svbtle.com/no-magic-regular-expressions)
+- [A Tour of Scala](https://docs.scala-lang.org/tour/tour-of-scala.html)
+- [Scala Exercises](https://www.scala-exercises.org/)
+- [Write a Simple Web Framework in Scala](https://github.com/niqdev/macwire-playground)
+- [Build a REST API with Akka HTTP](https://github.com/adelnoureddine/akka-http-rest)
+- [Build a Chat Application with Scala and Akka](https://www.linkedin.com/pulse/building-chat-application-using-akka-actors-scala-kishore-narasimhan)
+- [Learn Scala by Building a Simple Interpreter](https://github.com/paulbutcher/ProgrammingInScala)
+- [Build a Compiler with Scala](https://www.coursera.org/learn/progfun1)
 
 ## Swift:
 
-- [Hacking with Swift - Learn Swift by doing 39 projects](https://www.hackingwithswift.com/read)
-- [Retro first-person shooter from scratch](https://github.com/nicklockwood/RetroRampage)
-- [Build an iOS App with SwiftUI](https://www.swift.org/getting-started/swiftui/)
-- [Developing iOS Apps with SwiftUI (Stanford CS193p)](https://cs193p.sites.stanford.edu/) (video)
+- [Developing iOS Apps with Swift](https://developer.apple.com/tutorials/swiftui)
+- [Build a Simple iOS App](https://www.raywenderlich.com/771-swift-tutorial-for-beginners)
+- [Hacking with Swift](https://www.hackingwithswift.com/100)
+- [Build a Weather App with Swift](https://www.smalldata.io/blog/building-a-weather-app-in-swift/)
+- [Create a To-Do List App with Core Data](https://www.raywenderlich.com/7539-getting-started-with-core-data-tutorial)
+- [Build a Chat App with Firebase and Swift](https://www.hackingwithswift.com/read/38)
+- [Learn Swift by Building a Game](https://www.makeuseof.com/tag/build-tic-tac-toe-game-swift/)
 
-## Additional Resources
+## Additional Resources:
 
-- [React Redux Links](https://github.com/markerikson/react-redux-links)
-- [Udemy.com](https://www.udemy.com/)
-- [Full Stack Python](https://www.fullstackpython.com/)
-- [Node School](https://nodeschool.io/)
-- [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials)
-- [Exercism](http://www.exercism.io/)
-- [Egghead.io](http://www.egghead.io/)
-- [Michael Herman's Blog](http://mherman.org/)
-- [Thinkster.io](http://thinkster.io)
-- [Enlight](https://enlight.nyc/)
-- [Hack Club Workshops](https://hackclub.com/workshops/)
-- [CodeCrafters](https://codecrafters.io/)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Awesome Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+- [Dev Projects](https://github.com/karan/projects)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
